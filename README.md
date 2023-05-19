@@ -1,16 +1,29 @@
+![logo](https://github.com/projectsby-saini/projectsby-saini/blob/main/mygitprofile.png)
 <h1 align="center">Hi 👋, I'm Divyansh Saini</h1>
 <h3 align="center">A passionate Software Engineering Student.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3rxlsbSZKTEhBgANreHhjh&ust=1684562833091000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjuzdzbgP8CFQAAAAAdAAAAABAQ">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projectsby-saini&label=Profile%20views&color=0e75b6&style=flat" alt="projectsby-saini" /> </p>
 
+- 🌱 I’m currently learning **Full Stack Developemnt**
+
 - 👨‍💻 All of my projects are available at [https://projectsby-saini.github.io/Personal-Portfolio/](https://projectsby-saini.github.io/Personal-Portfolio/)
+
+- 📫 How to reach me **sainidivyansh.569@gmail.com+**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qlK_yQ5adB77hjv9sHmZ24TUyLjbjwWB/view?usp=share_link](https://drive.google.com/file/d/1qlK_yQ5adB77hjv9sHmZ24TUyLjbjwWB/view?usp=share_link)
+
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/divyansh-saini-2b6503258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-saini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/divyansh-saini-2b6503258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-saini-2b6503258" height="30" width="40" /></a>
+<a href="https://fb.com/divyansh.saini.313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divyansh.saini.313" height="30" width="40" /></a>
 <a href="https://instagram.com/__divyansh_saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__divyansh_saini" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/divyanshsaini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyanshsaini" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/divyanshsaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyanshsaini" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@divyanshsainimzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@divyanshsainimzn" height="30" width="40" /></a>
+<a href="https://discord.gg/#6232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6232" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
