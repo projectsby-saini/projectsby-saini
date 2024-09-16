@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects, Full Stack Applications**
 
+- 💬 Ask me about **C++, Data Structures, MERN stack**
+
 - 📫 How to reach me **sainidivyansh.569@gmail.com+**
 
 - ⚡ Fun fact **I love to making projects with different technologies.**
