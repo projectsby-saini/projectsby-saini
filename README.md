@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Full Stack Developemnt**
 
-- 👨‍💻 All of my projects are available at [https://projectsby-saini.github.io/Personal-Portfolio/](https://projectsby-saini.github.io/Personal-Portfolio/)
+- 👯 I’m looking to collaborate on **Open Source Projects, Full Stack Applications**
 
 - 📫 How to reach me **sainidivyansh.569@gmail.com+**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qlK_yQ5adB77hjv9sHmZ24TUyLjbjwWB/view?usp=share_link](https://drive.google.com/file/d/1qlK_yQ5adB77hjv9sHmZ24TUyLjbjwWB/view?usp=share_link)
-
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I love to making projects with different technologies **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
