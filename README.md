@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sainidivyansh.569@gmail.com+**
 
-- ⚡ Fun fact **I love to making projects with different technologies **
+- ⚡ Fun fact **I love to making projects with different technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
