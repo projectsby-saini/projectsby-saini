@@ -51,15 +51,6 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original-wordmark.svg" alt="xampp" width="40" height="40"/>
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original-wordmark.svg" alt="eclipse" width="40" height="40"/>
-  </a>
-  <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeblocks/codeblocks-original.svg" alt="codeblocks" width="40" height="40"/>
   </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=projectsby-saini&show_icons=true&locale=en&layout=compact" alt="projectsby-saini" /></p>
